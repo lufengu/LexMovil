@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+  
+rules:
+  prefer_const_constructor: false
+  prefer_const_literals_to_create_immutables: false
+  unnecessary_const: false
+  prefer_final_fields: false
+  avoid_print: false
